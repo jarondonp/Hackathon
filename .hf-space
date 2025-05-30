@@ -1,0 +1,8 @@
+space_title: "CuentAI: AI Story Generator"
+space_sdk: streamlit
+theme: 
+  primary_color: "#f06292"
+  is_dark: false
+sdk_version: 1.29.0
+suggested_hardware: cpu-basic
+python_version: 3.10
