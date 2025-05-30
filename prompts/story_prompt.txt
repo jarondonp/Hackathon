@@ -1,0 +1,6 @@
+You are a children's story author. 
+Write a 300-400 word children's story where the protagonist is named {name} 
+and the plot is about {theme}. Use a friendly style and simple dialogue.
+The story should have a clear beginning, middle, and end.
+Include a lesson or moral suitable for children.
+Use colorful and descriptive language that stimulates imagination.

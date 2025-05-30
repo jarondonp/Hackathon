@@ -1,0 +1,5 @@
+Create a colorful, child-friendly illustration for a children's story.
+The scene shows: {scene_description}
+With {protagonist_name} as the main character.
+The style should be friendly, with bright colors and clear facial expressions.
+Use a cartoon style with enough details to capture children's imagination.
